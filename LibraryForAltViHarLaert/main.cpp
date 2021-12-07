@@ -1,8 +1,12 @@
 #include "Header.h"
+//#include "meny.h"
+#include "betterMenu.h"
 
 int main() {
 
-	printTwoD();
+	usingMenu();
+
+	//printTwoD();
 
 	return 0;
 }
